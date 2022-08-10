@@ -3,7 +3,7 @@ resource "google_compute_region_health_check" "nginx_health_check" {
   project      = "skilful-reserve-349011"
 
   name                = "tests"
-  region                = "us-central1"
+  region              = "us-central1"
   timeout_sec         = 60
   check_interval_sec  = 60
   healthy_threshold   = 1
