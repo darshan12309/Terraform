@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "skilful-reserve-349011",
+    "private_key_id": "d1736e39abafa425bb07c0a2db0e574fac42699e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeioV+ZhaYracO\nEcSlVDiFabdFI9oPd3b3MO6wUYnnFZu32pAr06LcDst0iD4GTtcywsqqD7Yf4629\n3Cok/kRq5KwFNgSz4xpTTjm9g8DPmRiZSGcO/e660HHKB3amEeA1Up4/fL9+r2Xp\nHRZyws1hipnXAkkcQQOfkaIHEUnOkwoIWkXkM9VWzHCzjixBZOrR4vKXPVG1/+iQ\n7OKUBbyk3LEO9f4jc9947c+QrZvnslnXe4MdOzuB7pJKEEgBu1QbwovBRf6IoKBd\nqAaLyTrao1sKPCWWRvcSdrtTC2Wi2ssqGMHxIdO9nBYxH+2UdMroPFPLYh4bWY38\nJ4gHOqIxAgMBAAECggEAQoNtBB2CZ2WbS3zK2m3eFKLIf9pNtuVw5L4DtbdPusJH\nBThN+gUdM2OFmgs6slzLTgGJExXqW7CiiJ/gkoqWW546SSljibDCr6aG9OpcrvvU\n5SIKErEYQgoHYzIEZiHjxZs2xv3oPRcLE2TfsR/nGIAUkK7ly1O/WGe56WsoYuCG\nbu0Uw3QUdS6hWOfkaYBWVuFdAgscknNy6dRsM8XcF+cCFxhpY4YcPAe9E4ok0xAG\neBeMOdnBkm0bjEisYg9yBUWJKeIVayNV5z3BiOBS+LfwGIA73a0r460xpowS3AGr\nLxS6BNi+0SPdgGKsw+ftvmaT8cyY+u0YeH5ggF2KPQKBgQDKO5GQhAKHlTqKv4Jt\n8DTY1HORr0RODH2NQYh0osFqAaTkUz72tTrT7frWjdn1R0UoJToh/xfmMPGrZnEa\n+EcToaN6WVzjcQWXURidQmnPwQrbR9mMnm9kRSZcVpaBUIBUhvEb4dEZq9kYdAUJ\nyAnSvw5FbnajxGflM9DWmo7vbwKBgQDIsTNgL7jcOjC3eAiHOxrcnljIRUsoWcfg\nfS36zbCW/+MjCLEctzI0M5+fH0TnY/t6ALU4nxVOqrDjj8Hq5UYk5E5AQP07oZ8k\nGdAHu00Ax512o9VZeo5K1MCjLkWZP4NC8jkPFINQwZSGPePhXOyPZJIF1K3tJWHJ\nDr0ohWi4XwKBgAJdG+Byio0HI34HqwCZ9CQsp4UmZUf8QWNrRqsGU/hnOIQqrOu5\nRoy/lVT4p3mEcbx8YueO0bqxC8ITGnNUP5BtLTn63WkTIxuXqQ/9fLse6H+ToWlR\nWL/1RvOBV5T/WeCjCyJmS0lfhtQQVxa8LdE2xnXtSpmza/tz1ZcMi2slAoGBAKpz\nxjzVi16Qlbvd2PByRLhITQObxt+4kUibSSgQ9wDoyJOC2FqZRayMg+/z8OPOSVIv\ns7spckFkO+SqvnqwzEidF9D+4ZV6Cd3xhnxqmlYlNBoFwDjFHIF1/T8bF8W26dc8\nPzYNqBI4t9rkSd2ovMp1EoidQDOAYnMPb50w4eZlAoGBAJuWORr5oE6ItTEchEb8\nYvnhL63lOCtp7g5Q7BqumB/cLtIKkzCB8y/Zq47AG4jVhT/JfiCz5NHGCnlZJf3x\n0kKpTeGX73ck9GA06QyKSSW2dPur9X5SV5Hei7/GpxZJMJTF74AAeDDeeP3wkKIW\n6Mr2arPCOGRoriWWl7+zBr9b\n-----END PRIVATE KEY-----\n",
+    "client_email": "terraform@skilful-reserve-349011.iam.gserviceaccount.com",
+    "client_id": "106856238036686006208",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40skilful-reserve-349011.iam.gserviceaccount.com"
+  }
